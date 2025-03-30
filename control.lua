@@ -1,6 +1,6 @@
--- Factorio Crashed Ship Scenario
+-- Factorio Crashed Teleporter Scenario
 -- Place this file as control.lua in a scenario folder:
--- [Factorio folder]/scenarios/crashed-ship/control.lua
+-- [Factorio folder]/scenarios/crashed-teleporter/control.lua
 
 -- Initialize scenario when player is created
 script.on_event(defines.events.on_player_created, function(event)
